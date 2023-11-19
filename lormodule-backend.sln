@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoRModule", "LoRModule\LoRModule.csproj", "{DDCDA537-725A-4812-AD8D-0CAD137D5803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCDA537-725A-4812-AD8D-0CAD137D5803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCDA537-725A-4812-AD8D-0CAD137D5803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCDA537-725A-4812-AD8D-0CAD137D5803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCDA537-725A-4812-AD8D-0CAD137D5803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
